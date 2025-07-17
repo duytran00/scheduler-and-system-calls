@@ -1,0 +1,8 @@
+{
+    "editor.defaultFormatter": "ms-vscode.cpptools",
+    "files.associations": {
+        "types.h": "c",
+        "exception": "cpp",
+        "new": "cpp"
+    }
+}
